@@ -1,0 +1,11 @@
+"use strict";
+let id = 5;
+id = 10;
+let myName = "Prashant";
+myName = "Puneeth";
+let isValid = true;
+isValid = false;
+let x = true;
+x = 99;
+let marks = [97, 80, 97, 69, 90];
+marks.push(98);
