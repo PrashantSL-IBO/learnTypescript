@@ -62,5 +62,3 @@ function logmsg(msg: string | number): void {
 }
 logmsg("Good day");
 logmsg(100);
-
-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;
